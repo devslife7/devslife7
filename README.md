@@ -1,6 +1,6 @@
-### Hi there, I'm Marcos Velasco - aka [devslife7][marcosvelasco.com] 👋
+### Hi there, I'm Marcos Velasco - aka [devslife7][website] 👋
 
-[![Website](https://img.shields.io/website?label=marcosvelasco.com&style=for-the-badge&url=https%3A%2F%2Fmarcosvelasco.com)](https://codestackr.com)
+[![Website](https://img.shields.io/website?label=marcosvelasco.com&style=for-the-badge&url=https%3A%2F%2Fmarcosvelasco.com)](https://marcosvelasco.com)
 
 ## I'm a Full Stack Software Developer
 
