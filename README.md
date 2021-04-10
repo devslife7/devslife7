@@ -77,7 +77,7 @@
 </details>
 
 [website]: https://www.marcosvelasco.com/
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[twitter]: https://twitter.com/Markuz113
+[youtube]: https://www.youtube.com/channel/UCBmRRBM8cmE29ZGba51Sbzw
+[instagram]: https://www.instagram.com/markuz1457
+[linkedin]: https://www.linkedin.com/in/marcos-velasco-1b07a7189/
