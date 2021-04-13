@@ -1,4 +1,4 @@
-### Hi there, I'm Marcos Velasco - aka [devslife7][website] 👋
+### Hi there 👋, I'm Marcos Velasco
 
 [![Website](https://img.shields.io/website?label=marcosvelasco.com&style=for-the-badge&url=https%3A%2F%2Fmarcosvelasco.com)](https://marcosvelasco.com)
 
@@ -28,7 +28,6 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <br />
-<br />
 
 #### Back End:
 
@@ -37,7 +36,6 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
-<br>
 <br>
 
 ### Tools:
@@ -51,8 +49,6 @@
 <br>
 
 ---
-
-<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devslife7)](https://github.com/devslife7/github-readme-stats)
 
