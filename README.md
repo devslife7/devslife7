@@ -10,8 +10,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I enjoy sports and playing my guitar
 
-</br>
-
 ### Languages and Tools:
 
 #### Front End:
