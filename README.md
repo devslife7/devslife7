@@ -2,8 +2,6 @@
 
 [![Website](https://img.shields.io/website?label=marcosvelasco.com&style=for-the-badge&url=https%3A%2F%2Fmarcosvelasco.com)](https://marcosvelasco.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devslife7)](https://github.com/devslife7/github-readme-stats)
-
 ## I'm a Full Stack Software Developer
 
 - 🌱 I’m currently learning everything 🤣
@@ -42,6 +40,8 @@
 
 <br />
 <br />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devslife7)](https://github.com/devslife7/github-readme-stats)
 
 [website]: https://www.marcosvelasco.com/
 [twitter]: https://twitter.com/Markuz113
