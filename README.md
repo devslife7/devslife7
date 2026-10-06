@@ -6,8 +6,7 @@
 
 - 🔭 I’m currently working on my latest projects
 - 🌱 I’m currently learning everything 🤣
-- 😄 Pronouns: He/Him
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 2026 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I enjoy sports and playing my guitar
 
 ### Languages and Tools:
